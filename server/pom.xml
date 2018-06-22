@@ -16,7 +16,6 @@
 
     <dependencies>
 
-
         <dependency>
             <groupId>proj.batlleship</groupId>
             <artifactId>client</artifactId>
